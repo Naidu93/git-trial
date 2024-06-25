@@ -1,7 +1,7 @@
 //Example program to find given number is even or odd
-let a=20;
+let b=20; //Declaring Variable and Assigning value to it
 
-if(a%2 === 0){
+if(b%2 === 0){
 	console.log("Given Number is Even");
 }
 else{
